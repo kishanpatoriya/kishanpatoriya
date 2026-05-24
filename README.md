@@ -31,6 +31,8 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=kishanpatoriya&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=kishanpatoriya&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=kishanpatoriya&label=Profile%20Views&color=blue&style=for-the-badge" alt="profile views"/>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
